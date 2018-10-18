@@ -1,6 +1,8 @@
 # hello-world
 
-Hi Humans
+Hi Humanoids
 
 It's all about Bob
+
+Printf "Hello World"/NL
 
