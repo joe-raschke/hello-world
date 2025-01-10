@@ -2,7 +2,7 @@
 
 Hi Humanoids
 
-It's all about Bob and Neal
+It's all about Neal and Bob
 
 Printf "Hello World"/NL
 
